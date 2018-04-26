@@ -3,5 +3,5 @@
 // NOTE: thisi is my program3
 // NOTE: thisi is my program4
 
-alert('Hello word');
+alert('Hello Alza!');
 // NOTE: thisi is my program5
